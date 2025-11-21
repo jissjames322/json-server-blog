@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "title": "Blog 1",
+      "content": "Super Mone",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "title": "Blog post title 2",
+      "content": "SAMPLE Content"
+    },
+    {
+      "id": "08c6",
+      "title": "SunFlower",
+      "content": "Or you be left in the dust"
+    }
+  ]
+}
